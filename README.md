@@ -10,7 +10,7 @@ _This website was designed purely for us noobie coders to practice basic coding 
 
 ## Setup/Installation Requirements
 
-* Load in any internet browser. 
+* Load in any internet browser.
 
 ## Known Bugs
 
@@ -23,6 +23,7 @@ _Contact the authors at the provided emails:_
 ## Technologies Used
 
 _HTML_
+_CSS_
 
 ### License
 

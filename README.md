@@ -1,4 +1,4 @@
-# _my first webpage_
+# _My First Webpage_
 
 #### _Basic introductory webpage about nothing in particular, 8/5/17_
 
@@ -6,15 +6,11 @@
 
 ## Description
 
-_This website was designed purely for us to practice basic coding skills._
+_This website was designed purely for us noobie coders to practice basic coding skills._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Load in any internet browser. 
 
 ## Known Bugs
 
